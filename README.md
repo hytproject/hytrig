@@ -1,14 +1,14 @@
-# XLArig
+# HytRig
 
-XLArig is a high performance Scala (XLA) CPU miner, with official support for Windows. 
+HytRig is a high performance HYTPAYS (HYT) CPU miner, with official support for Windows. 
 Forked from XMRig for Monero and other cryptonight currencies.
 
 <img src="doc/screenshot_v5.png" width="833" >
 
 ## Download
-* Binary releases: https://github.com/scala-network/xlarig/releases
-* Git tree: https://github.com/scala-network/xlarig.git
-  * Clone with `git clone https://github.com/scala-network/xlarig.git` :hammer: [Build instructions](doc/building.md).
+* Binary releases: https://github.com/hytproject/HytRig/releases
+* Git tree: https://github.com/hytproject/HytRig.git
+  * Clone with `git clone https://github.com/hytproject/HytRig.git` :hammer: [Build instructions](doc/building.md).
 
 ## Usage
 
@@ -79,14 +79,11 @@ Misc:
 ```
 
 ## Donations
-Since the donation mining in XLArig can be turned off, if you wish to help the original creators or the Scala Project team, you can donate with one of the addresses below.
+Since the donation mining in HytRig can be turned off, if you wish to help the original creators or the Holoyolo Foundation, you can donate with one of the addresses below.
 
-* The Scala Project Team addresses:
+* The Holoyolo Foundation addresses:
   *	XLA : `Ssy2L9U75D2JomhUToLSNQhybW4fDyJCVgaH95UTvRWNEX7UAYdpVrjfbqZuXqj4r3TgSnoiq7mDVRq72BmJtVP93TcAR9oeHJ`
-		
-* Original Creators addresses: 
-  *	XMR: `48edfHu7V9Z84YzzMa6fUueoELZ9ZRXq9VetWzYGzKt52XU5xvqgzYnDK9URnRoJMk1j8nLwEVsaSWJ4fhdUyZijBGUicoD`
-  *	BTC: `1P7ujsXeX7GxQwHNnJsRMgAdNkFZmNVqJT`
+  *	XMR: `449H1DnhekQLnSAbtGDPnnTrZNKvNpzaqF11yfKxJ3KYgdWLkLx3gW45Amo4dBDDKWM7uXpUwvQ6oYrdLUhCeBhk4modqZL `
 
 ## Contacts
-* hello@scalaproject.io
+* hello@holoyolo.com
